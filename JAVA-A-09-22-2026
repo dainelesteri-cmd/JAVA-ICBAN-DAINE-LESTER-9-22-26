@@ -1,4 +1,6 @@
-import java.util.Scanner;
+// JAVA PROGRAMMING LANGUAGE
+// CODE PROPER
+// SYNTAX
 
 public class Main {
     public static void main(String[] args) {
@@ -81,4 +83,3 @@ public class Main {
         }
     }
 }
-
